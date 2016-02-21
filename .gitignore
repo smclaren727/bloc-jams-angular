@@ -1,0 +1,6 @@
+app/scripts/.tern-port
+node_modules/
+bower_components/
+.idea/
+.sass-cache/
+.DS_Store
